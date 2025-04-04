@@ -44,7 +44,7 @@ o	Most popular coffee types.
 
 o	Cash vs. Card payment preference.
 
-##### Data Visualization (Excel Dashboards)
+###### Data Visualization (Excel Dashboards)
 •	Line Chart: Sales trends over time.
 
 •	Bar Chart: Best-selling coffee types.
