@@ -1,6 +1,6 @@
 # coffee-sales-project
 
-1. dataset :-  .csv format upload here (https://github.com/Sonu25747/coffee-sales)
+1. dataset :-  .csv format upload here (https://github.com/Sonu25747/coffee-sales-)
 
 ##Objectives
 
