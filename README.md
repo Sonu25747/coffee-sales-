@@ -32,6 +32,10 @@
 
 •	Formatted date and money columns correctly.
 
+upload here :
+
+ (https://github.com/Sonu25747/coffee-sales-)
+
 #####Exploratory Data Analysis (Excel )
 
 •	Created Pivot Tables to analyze total sales per coffee type.
@@ -43,6 +47,9 @@ o	Total revenue per month.
 o	Most popular coffee types.
 
 o	Cash vs. Card payment preference.
+upload here :
+
+ (https://github.com/Sonu25747/coffee-sales-)
 
 ###### Data Visualization (Excel Dashboards)
 •	Line Chart: Sales trends over time.
@@ -52,6 +59,10 @@ o	Cash vs. Card payment preference.
 •	Pie Chart: Payment method distribution.
 
 •	Pivot Tables & Slicers for interactive filtering
+
+upload here :-
+
+ (https://github.com/Sonu25747/coffee-sales-)
 
 
 
